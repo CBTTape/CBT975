@@ -1,0 +1,7 @@
+2023-08-06 08:48:27.913648 - Initialized conversion of CBT975
+2023-08-06 08:48:27.977878 - Received CBT.V505.FILE975.PDS from FILE975.XMI 
+2023-08-06 08:48:27.980016 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE975.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:48:27.981151 - Found $$NOTE01.txt (text/plain) in CBT.V505.FILE975.PDS, moved to PDS/$$NOTE01
+2023-08-06 08:48:27.982115 - Found @FILE975.txt (text/plain) in CBT.V505.FILE975.PDS, moved to PDS/@FILE975
+2023-08-06 08:48:27.982979 - Found JOBSTREM.txt (text/plain) in CBT.V505.FILE975.PDS, moved to PDS/JOBSTREM
+2023-08-06 08:48:27.984088 - Found PORCVERB.txt (text/plain) in CBT.V505.FILE975.PDS, moved to PDS/PORCVERB
